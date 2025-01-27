@@ -11,6 +11,7 @@ import lombok.Setter;
 @Setter
 public class Student {
     private int id;
+    private String something;
     private String name;
     private String surname;
     private boolean gender;
