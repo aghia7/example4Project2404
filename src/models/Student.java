@@ -14,4 +14,5 @@ public class Student {
     private String name;
     private String surname;
     private boolean gender;
+    private String anotherThing;
 }
